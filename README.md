@@ -7,7 +7,7 @@ Primarily a web developer, I enjoy desiging websites and overlooking the backend
 - 🌱 I’m currently exploring the world of Data Science, AI/ML and Generative AI. 
 - 👯 I’m looking to collaborate with people who have an interest in Generative AI or the field of AI/ML in general.
 - 📫 Reach me at: [hansawani07@gmail.com](mailto:hansawani07@gmail.com)
-- 📄 My [Resume] (https://drive.google.com/file/d/1vrhVC01fjYEsu93KL9f3AGqy-wvlcHyM/view?usp=sharing)
+- 📄 My [Resume](https://drive.google.com/file/d/1vrhVC01fjYEsu93KL9f3AGqy-wvlcHyM/view?usp=sharing)
 - ⚡ Fun fact: Can talk non-stop about all things novels, art, cricket and Taylor Swift ✨
   
 <hr/>
